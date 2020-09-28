@@ -1184,8 +1184,7 @@ Computing Machinery]
   \global\@ACM@journal@bibstripfalse
 }
 \if@ACM@journal\else
-\acmConference[Conference'17]{ACM Conference}{July 2017}{Washington,
-  DC, USA}%
+\acmConference[HCI-IS 2020]{Human Computer Interaction in Information Society 2020}{October 2020}{Ljubljana, Slovenia}%
 \fi
 \def\acmBooktitle#1{\gdef\@acmBooktitle{#1}}
 \acmBooktitle{Proceedings of \acmConference@name
